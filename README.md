@@ -9,7 +9,7 @@
 
 
 <h2>📜 Certifications</h2>
-- 
+- <b>Cert 1</b>
 <!--<h2>📺 Popular YouTube Videos</h2>-->
 
 
