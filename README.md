@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>*</b>
+- <b>Project 1</b>
   - [Description](https://github.com/8l4nk0/proj1)
-- <b>*</b>
+- <b>Project 2</b>
   - [Description](https://github.com/8l4nk0/proj2)
 
 
