@@ -8,7 +8,7 @@
   - [Description](https://github.com/8l4nk0/proj2)
 
 
-<h2>Certifications</h2>
+<h2>📜 Certifications</h2>
 - 
 <!--<h2>📺 Popular YouTube Videos</h2>-->
 
