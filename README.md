@@ -4,8 +4,7 @@
 
 - <b>Test Project</b>
   - [Description](https://github.com/8l4nk0/TestProject)
-- <b>Project 2</b>
-  - [Description](https://github.com/8l4nk0/proj2)
+- <b>[Python Basic Keylogger](https://github.com/8l4nk0/Python-Basic-Keylogger)<b>
 
 
 <h2>📜 Certifications</h2>
