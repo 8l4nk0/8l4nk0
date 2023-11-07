@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Project 1</b>
-  - [Description](https://github.com/8l4nk0/proj1)
+- <b>Test Project</b>
+  - [Description]([https://github.com/8l4nk0/proj1](https://github.com/8l4nk0/TestProject))
 - <b>Project 2</b>
   - [Description](https://github.com/8l4nk0/proj2)
 
