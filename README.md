@@ -13,9 +13,8 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-<img align="left" alt="GiovanniPaoloCaldarini | LinkedIn" width="22px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"></path>
-</svg>" />][linkedin]
-[linkedin]: https://www.linkedin.com/in/giovanni-paolo-c/?lipi=urn%3Ali%3Apage%3Ad_flagship3_leia_profile_views%3BHRmDdelaQe6m8XdVONihFA%3D%3D
+<img align="left" alt="GiovanniPaoloCaldarini | LinkedIn" width="22px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" />][linkedin]
+[linkedin]: https://www.linkedin.com/in/giovanni-paolo-c
 
 <!--
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
