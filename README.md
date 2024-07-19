@@ -6,9 +6,9 @@
 - <b>[REST API w/NodeJS & Express](https://github.com/8l4nk0/Rest-Api-Nodejs-Express)<b>
 - <b>[Azure Sentinel(SIEM) Experiment](https://github.com/8l4nk0/Sentinel-Experiment)</b>
 
-<h2>📜 Certifications</h2>
+<!--<h2>📜 Certifications</h2>
 - <b>Cert 1</b>
-<!--<h2>📺 Popular YouTube Videos</h2>-->
+<h2>📺 Popular YouTube Videos</h2>-->
 
 
 
