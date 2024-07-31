@@ -7,6 +7,7 @@
 - <b>[Azure Sentinel(SIEM) Experiment](https://github.com/8l4nk0/Sentinel-Experiment)</b>
 - <b>[Elastic SIEM Experiment](https://github.com/8l4nk0/ElasticSIEM-experiment)</b>
 - <b>[Vulnerability Management with Nessus](https://github.com/8l4nk0/Nessus-Vuln-Management)</b>
+- <b>[Active Directory with Azure cloud](https://github.com/8l4nk0/Active-Directory-with-Azure)</b>
 
 <!--<h2>📜 Certifications</h2>
 - <b>Cert 1</b>
