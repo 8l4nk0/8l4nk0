@@ -8,6 +8,7 @@
 - <b>[Elastic SIEM Experiment](https://github.com/8l4nk0/ElasticSIEM-experiment)</b>
 - <b>[Vulnerability Management with Nessus](https://github.com/8l4nk0/Nessus-Vuln-Management)</b>
 - <b>[Active Directory with Azure cloud](https://github.com/8l4nk0/Active-Directory-with-Azure)</b>
+- <b>[ISO/IEC 27001 + NIS applied to a real study simulation](https://github.com/8l4nk0/ISO27001_and_NIS2_real_study_simulation)</b>
 
 <!--<h2>📜 Certifications</h2>
 - <b>Cert 1</b>
